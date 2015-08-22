@@ -30,27 +30,27 @@ A CodeParty will create a shared GitHub repository where they will build upon it
 
 CodeParty! will produce a series of collaborative projects utilizing GitHub:
 
-*Text story or rhyme
-*Drawing
-*Tune/Composition
-*Game (Example: Unity game engine)
-*Code Exercise (Example: Scratch)
-*Web Page
+* Text story or rhyme
+* Drawing
+* Tune/Composition
+* Game (Example: Unity game engine)
+* Code Exercise (Example: Scratch)
+* Web Page
 
 The final products will be turned into accessible instructions online, and publicized through Mozilla.  And of course, placed in a repository on GitHub! A collection of links to other tutorials will be added to the online series, and  suggestions for useful and fun repositories that girls can browse and try out to add to their understanding and advance their coding skills. 
 
 ##Learning Strategies: 
 
-*Blended Environment
-*Production Centered
-*Openly Networked
-*Peer-Education /Performance
+* Blended Environment
+* Production Centered
+* Openly Networked
+* Peer-Education /Performance
 
 ##Learning Principles:  
 
-*Interest powered
-*Peer-Supported
-*Academically Oriented
+* Interest powered
+* Peer-Supported
+* Academically Oriented
 
 CodeParty! is designed to foster critical thinking, creative problem solving and resilience, strengthen digital literacy, design and their ability to collaborate effectively and efficiently. The overall aim is to empower girls and young women to explore collaborative code  while simultaneously sharing best practices and designing a replicable program model which can be administered across the country.
 
